@@ -1,0 +1,10 @@
+= get_os_info
+
+Get OS infomation
+
+== Install
+
+[source,shell]
+----
+fisher add github.com/mimikun/get_os_info
+----
