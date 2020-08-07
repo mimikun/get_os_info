@@ -68,6 +68,3 @@ function get_os_info --description 'Get OS infomation'
   end
   _get_os_distribution
 end
-
-# debug:
-#     sudo ln -sfnv (pwd)/get_os_info.fish $HOME/.config/fish/functions/get_os_info.fish
