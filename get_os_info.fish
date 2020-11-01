@@ -63,7 +63,7 @@ function get_os_info --description 'Get OS infomation'
     else
       #echo "This distro is NOT Linux"
       if test (uname -s) = "Darwin"
-        set dist_name "macOS"
+        set dist_name "macos"
       else
         # Other
         #echo "unkown distribution"
