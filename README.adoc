@@ -6,5 +6,5 @@ Get OS infomation
 
 [source,shell]
 ----
-fisher add github.com/mimikun/get_os_info
+fisher install mimikun/get_os_info
 ----
